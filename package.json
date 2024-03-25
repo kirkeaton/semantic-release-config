@@ -1,0 +1,28 @@
+{
+  "name": "@kirkeaton/semantic-release-config",
+  "description": "semantic-release config for my projects",
+  "version": "0.0.0-development",
+  "author": "Kirk Eaton <contact@kirkeaton.ca>",
+  "devDependencies": {
+    "semantic-release": "23.0.4"
+  },
+  "files": [
+    "index.js"
+  ],
+  "homepage": "https://github.com/kirkeaton/semantic-release-config#readme",
+  "keywords": [
+    "semantic-release",
+    "config"
+  ],
+  "license": "BSD-3-Clause",
+  "main": "index.js",
+  "packageManager": "pnpm@8.15.5",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kirkeaton/semantic-release-config.git"
+  },
+  "type": "commonjs"
+}
