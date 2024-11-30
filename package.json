@@ -1,7 +1,7 @@
 {
   "name": "@kirkeaton/semantic-release-config",
-  "description": "semantic-release config for my projects",
   "version": "0.0.0-development",
+  "description": "semantic-release config for my projects",
   "author": "Kirk Eaton <contact@kirkeaton.ca>",
   "devDependencies": {
     "semantic-release": "24.2.0"
