@@ -4,7 +4,7 @@
   "version": "0.0.0-development",
   "author": "Kirk Eaton <contact@kirkeaton.ca>",
   "devDependencies": {
-    "semantic-release": "24.1.2"
+    "semantic-release": "24.2.0"
   },
   "files": [
     "index.js"
