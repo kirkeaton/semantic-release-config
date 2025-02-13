@@ -10,6 +10,7 @@
   "files": [
     "index.js"
   ],
+  "funding": "https://kirkeaton.ca/sponsor",
   "homepage": "https://github.com/kirkeaton/semantic-release-config#readme",
   "keywords": [
     "semantic-release",
