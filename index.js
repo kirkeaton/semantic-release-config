@@ -12,7 +12,7 @@ module.exports = {
         failTitle: false,
         labels: false,
         releasedLabels: false,
-        successComment: false,
+        successCommentCondition: false,
       },
     ],
   ],
