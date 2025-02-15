@@ -10,4 +10,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
-      - uses: kirkeaton/action-publint@v1
+      - uses: kirkeaton/action-publint@5786c327ca82fe80a4851bdaefab847aa7b3093f # v1.0.5
