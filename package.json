@@ -4,7 +4,7 @@
   "description": "semantic-release config for my projects",
   "author": "Kirk Eaton <contact@kirkeaton.ca>",
   "devDependencies": {
-    "semantic-release": "24.2.5"
+    "semantic-release": "24.2.6"
   },
   "exports": "./index.js",
   "files": [
