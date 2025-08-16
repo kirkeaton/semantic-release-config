@@ -8,8 +8,7 @@ module.exports = {
     [
       '@semantic-release/github',
       {
-        failComment: false,
-        failTitle: false,
+        failCommentCondition: false,
         labels: false,
         releasedLabels: false,
         successCommentCondition: false,
