@@ -3,9 +3,6 @@
   "version": "0.0.0-development",
   "description": "semantic-release config for my projects",
   "author": "Kirk Eaton <contact@kirkeaton.ca>",
-  "devDependencies": {
-    "semantic-release": "25.0.2"
-  },
   "exports": "./index.js",
   "files": [
     "index.js"
@@ -17,7 +14,6 @@
     "config"
   ],
   "license": "BSD-3-Clause",
-  "packageManager": "pnpm@10.26.2",
   "publishConfig": {
     "access": "public"
   },
