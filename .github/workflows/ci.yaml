@@ -14,4 +14,4 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@9c091bb21b7c1c1d1991bb908d89e4e9dddfe3e0 # v7.0.0
       - name: Check for packaging errors
-        uses: kirkeaton/action-publint@790d324d5d1373c0409b5498776ab0010ca18355 # v2.0.19
+        uses: kirkeaton/action-publint@7d016f859ab1635756d4f4e2e653cf9a72af4a6f # v2.0.20
